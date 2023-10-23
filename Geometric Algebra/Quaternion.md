@@ -43,8 +43,8 @@ q^* = r - \vec{v} = a - bi - cj - dk
 $$
 
 $$
-(q^*)^* = q \\
-(q_1q_2)^* = q_2^*q_1^* \\
+( q^* )^* = q  \\
+(q_1q_2)^* = q_2^* q_1^* \\
 qq* = a^2 + b^2 + c^2 + d^2
 $$
 
@@ -99,7 +99,7 @@ $$
 the norm of $\vec{V}'$ is equal $\vec{V}$
 
 $$
-||\vec{V}'||^2 = \vec{V}'{\vec{V}'}^* = q\vec{V}q^* (q^*)^*\vec{V}^*q* = q\vec{V}q^*q\vec{V}^*q^* = q\vec{V}\vec{V}^*q^* = ||\vec{V}||^2qq^* = ||V||^2 
+||\vec{V}'||^2 = \vec{V}' {\vec{V}'}^* = q \vec{V} q^* ( q^* )^* \vec{V}^* q* = q \vec{V} q^* q \vec{V}^* q^* = q \vec{V} \vec{V}^* q^* = ||\vec{V}||^2 qq^* = ||V||^2 
 $$
 
 For any unit quaternion $q$, we can also rewrite as:
