@@ -8,7 +8,7 @@ $\vec{a}$ represent this subspace, and this subsapce has direction(same as the d
 
 A 2-dimension subspace $\vec{\mathbf{A}}$ can be write as a **bivector** $\vec{u}\wedge\vec{v}$
 
-![The orientation of this bivector is the direction of $\vec{u}$, the size of this bivector is the red area.](Space/Untitled.png)
+![Untitled](Space/Untitled.png)
 
 The orientation of this bivector is the direction of $\vec{u}$, the size of this bivector is the red area.
 
@@ -22,7 +22,7 @@ if  $\vec{u}$ and $\vec{v}$ is parallel, $\vec{u}\wedge\vec{v} = 0$(scalar)
 
 A 3-dimension sub space can be write as a **trivector $\vec{u}\wedge\vec{v}\wedge\vec{w}$**
 
-![Untitled](Space/Untitled%201.png)
+![Untitled%201](Space/Untitled%201.png)
 
 ## Orthonormal basis
 
